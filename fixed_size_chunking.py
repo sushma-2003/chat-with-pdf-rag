@@ -182,7 +182,7 @@ Question:
 
             print(f"\nChunk {i+1}")
             print("-" * 40)
-            print(chunk[:500])
+            print(chunk)
 
         print("\nSimilarity Scores:")
         print(scores)
