@@ -1,6 +1,6 @@
 import os
 import pickle
-import faiss
+import faiss  # type: ignore
 import numpy as np
 
 from dotenv import load_dotenv
